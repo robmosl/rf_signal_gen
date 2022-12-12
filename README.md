@@ -8,7 +8,7 @@ Program version: 0.1.2
 
 ### TODO List and Known Issues
 
-handle input of scientific notation for easier entry of MHz/GHz in all functions
+handle input of scientific notation for easier entry of MHz/GHz in all functions, i.e. 32e6
 
 using the sig_gen tool, users can only input files as signal data - add support for raw hex input
 
