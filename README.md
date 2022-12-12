@@ -8,6 +8,8 @@ Program version: 0.1.2
 
 ### TODO List and Known Issues
 
+handle input of scientific notation for easier entry of MHz/GHz in all functions
+
 using the sig_gen tool, users can only input files as signal data - add support for raw hex input
 
 need to add support for pre-ambels/post-ambels/checksums
@@ -17,6 +19,7 @@ audio AM/FM files must be WAV files MONO channel, STEREO files crash the tool
 audio AM/FM has no baseband center freq select
 
 advanced waveforms need to be written
+
 
 ### Dependencies
 
